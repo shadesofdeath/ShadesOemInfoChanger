@@ -1,0 +1,33 @@
+﻿<ui:UiWindow x:Class="ShadesOemInfoChanger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+        xmlns:local="clr-namespace:ShadesOemInfoChanger"
+        Title="Shades Oem Info Changer" Height="460" Width="600"
+        ResizeMode="NoResize" FontFamily="Segoe UI"
+        WindowStartupLocation="CenterScreen"
+        ExtendsContentIntoTitleBar="True"
+        WindowBackdropType="Acrylic"
+        WindowCornerPreference="Round">
+    <Grid >
+        <ui:TitleBar ShowClose="True" Title="ShadesOemInfoChanger" ShowMaximize="False" ShowHelp="False" ShowMinimize="False"  CanMaximize="False"/>
+        <StackPanel>
+            <Image Source="microsoft.png" Margin="0,40,0,20" VerticalAlignment="Center" HorizontalAlignment="Center" Width="50"  ToolTipService.ToolTip="Developed by ShadesOfDeath"></Image>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <ui:TextBox x:Name="logoTextBox" PlaceholderText="Manufacturer - Logo" Width="460" Margin="4" ToolTipService.ToolTip="Logo - Path to your logo BMP (150 pixels max or it will be automatically scaled)"/>
+                <ui:Button Content="Select" Icon="ImageSearch24" Margin="4" HorizontalAlignment="Center" Height="34"  Click="SelectLogoButton_Click"/>
+            </StackPanel>
+            <ui:TextBox x:Name="modelNumberTextBox" PlaceholderText="Model - System Model number" Width="550" Margin="4" ToolTipService.ToolTip="System manufacturer name"/>
+            <ui:TextBox x:Name="modelTextBox" PlaceholderText="Model" Width="550" Margin="4" ToolTipService.ToolTip="System Model number"/>
+            <ui:TextBox x:Name="supportHoursTextBox" PlaceholderText="Support hours" Width="550" Margin="4" ToolTipService.ToolTip="Support hours"/>
+            <ui:TextBox x:Name="supportPhoneTextBox" PlaceholderText="OEM Support Phone number" Width="550" Margin="4" ToolTipService.ToolTip="OEM Support Phone number"/>
+            <ui:TextBox x:Name="supportURLTextBox" PlaceholderText="OEM Support URL" Width="550" Margin="4" ToolTipService.ToolTip="OEM Support URL"/>
+            <ui:Button VerticalContentAlignment="Center" Content="Save" Icon="Save28" Margin="6" HorizontalAlignment="Center" Width="100" Click="Oem_Button_Click"/>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <ui:Hyperlink FontSize="14" Content="Developed by ShadesOfDeath" Margin="4"  VerticalAlignment="Center" NavigateUri="https://github.com/shadesofdeath" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</ui:UiWindow>

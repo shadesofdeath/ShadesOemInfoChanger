@@ -1,0 +1,63 @@
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\bin\Debug\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\bin\Debug\Wpf.Ui.dll
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\App.baml
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.csproj.CopyComplete
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\bin\Debug\ShadesOemInfoChanger.exe.config
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\bin\Debug\ShadesOemInfoChanger.exe
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\bin\Debug\ShadesOemInfoChanger.pdb
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger_MarkupCompile.cache
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger_MarkupCompile.lref
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.g.resources
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.exe
+C:\Users\Administrator\source\repos\CleanOS Toolbox\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.pdb
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\bin\Debug\ShadesOemInfoChanger.exe.config
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\bin\Debug\ShadesOemInfoChanger.exe
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\bin\Debug\ShadesOemInfoChanger.pdb
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\bin\Debug\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\bin\Debug\Wpf.Ui.dll
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger_MarkupCompile.cache
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger_MarkupCompile.lref
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\App.baml
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.g.resources
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.exe
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\CleanOS Toolbox\obj\Debug\ShadesOemInfoChanger.pdb
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\bin\Debug\ShadesOemInfoChanger.exe.config
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\bin\Debug\ShadesOemInfoChanger.exe
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\bin\Debug\ShadesOemInfoChanger.pdb
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\bin\Debug\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\bin\Debug\Wpf.Ui.dll
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger_MarkupCompile.cache
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger_MarkupCompile.lref
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\App.baml
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger.g.resources
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger.exe
+C:\Users\Administrator\source\repos\ShadesOemInfoChanger\ShadesOemInfoChanger\obj\Debug\ShadesOemInfoChanger.pdb
