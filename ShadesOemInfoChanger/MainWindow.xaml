@@ -9,7 +9,7 @@
         ResizeMode="NoResize" FontFamily="Segoe UI"
         WindowStartupLocation="CenterScreen"
         ExtendsContentIntoTitleBar="True"
-        WindowBackdropType="Acrylic"
+        WindowBackdropType="Mica"
         WindowCornerPreference="Round">
     <Grid >
         <ui:TitleBar ShowClose="True" Title="ShadesOemInfoChanger" ShowMaximize="False" ShowHelp="False" ShowMinimize="False"  CanMaximize="False"/>
